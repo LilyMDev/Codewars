@@ -5,5 +5,5 @@ function positiveSum(arr) {
     arr.forEach(integer =>{
       if (integer > 0) sum += integer
     })
-    return sum
+    return sum;
   }
